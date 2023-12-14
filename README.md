@@ -5,6 +5,7 @@
 | Nom prenom | Lien |
 | ----------- | ----------- |
 | [Julia March](https://juliamarch.com/) | Livre : [La Fille Pas Sympa](https://www.amazon.fr/fille-pas-sympa-March-Julia/dp/B075G1M88T)|
+| [Julia March](https://juliamarch.com/) | Intervention médiatique : [Julia March est autiste Asperger](https://www.facebook.com/SimoneMedia/videos/julia-march-est-autiste-asperger/456659604853669/?locale=fr_FR)|
 | [Déborah Guyard](https://fr.linkedin.com/in/d%C3%A9borah-guyard) | Conférence : [Keynote ouverture Sunny Tech 2023 : L'autisme, le comprendre et comment faire pour intégrer une personne autiste](https://www.youtube.com/watch?v=K8eRF3IXbl8) |
 | Petite Loutre | Blog : [Petite Loutre Blog](https://leblogdepetiteloutre.com/)|
 | Meredith Patterson and Julian Finn | Conférence : [Nerd-Wrangling 101 (SHA2017)](https://www.youtube.com/watch?v=2fD2BvS3Aqw)|
