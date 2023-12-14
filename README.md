@@ -30,8 +30,7 @@
 | ----------- | ----------- |
 | [Alex Rock](https://fr.linkedin.com/in/alex-rock) | Conférence : [Forum PHP : Neuroatypie, quelques conseils](https://www.youtube.com/watch?v=lBC-AV-o73k)  |
 | [Magali Milbergue](https://fr.linkedin.com/in/magali-milbergue) | Conférence : [Paris Web : Du social à la tech : plaidoyer en faveur des profils atypiques](https://vimeo.com/783582587) |
-| [Alice Baralon](https://fr.linkedin.com/in/alice-barralon)  | Conférence : [Des Z’Individus et des Z’Interactions, ou l’inclusion des (neuro) atypiques dans les équipes.
-Pour tous ceux qui pensent différemment.](https://www.youtube.com/watch?v=A3zZsln6pNM) |
+| [Alice Baralon](https://fr.linkedin.com/in/alice-barralon)  | Conférence : [Des Z’Individus et des Z’Interactions, ou l’inclusion des (neuro) atypiques dans les équipes, pour tous ceux qui pensent différemment.](https://www.youtube.com/watch?v=A3zZsln6pNM) |
 | France Culture | Intervention médiatique : [L'hypersensibilité, une notion en vogue ?](https://www.youtube.com/watch?v=YqrA3mfrkMU)   |
 
 # Personnes sourdes et malentendantes 
