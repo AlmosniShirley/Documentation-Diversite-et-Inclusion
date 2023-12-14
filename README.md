@@ -1,1 +1,1 @@
-# Documentation-Diversit-et-Inclusion
+# Documentation-Diversité-et-Inclusion
