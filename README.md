@@ -10,20 +10,21 @@
 | Meredith Patterson and Julian Finn | Conférence : [Nerd-Wrangling 101 (SHA2017)](https://www.youtube.com/watch?v=2fD2BvS3Aqw) |
 | Emma Schütz | Blog : [L'Emmaginarium ](https://lemmaginarium.substack.com/t/autisme)|
 
-## TDAH
+# TDAH
 
 | Nom prenom | Lien |
 | ----------- | ----------- |
 | @AugierLe42e@diaspodon.f | Conférence : [Les troubles du déficit de l’attention et de l’hyperactivité](https://peertube.ecologie.bzh/w/7f4d2b7a-9ac7-4f17-aa9d-e524ef0763e6) |
 
-### Dyslexie
+# Dyslexie
 
-#### HPI
+# HPI
+
 | Nom prenom | Lien |
 | ----------- | ----------- |
 | Nicolas Gauvrit et Franck Ramus | Article : [La légende noire des surdoués](https://www.larecherche.fr/la-l%C3%A9gende-noire-des-surdou%C3%A9s) |
 
-##### Neuroatypisme global
+# Neuroatypisme global
 
 | Nom prenom | Lien |
 | ----------- | ----------- |
@@ -33,7 +34,7 @@
 Pour tous ceux qui pensent différemment.](https://www.youtube.com/watch?v=A3zZsln6pNM) |
 | France Culture | Intervention médiatique : [L'hypersensibilité, une notion en vogue ?](https://www.youtube.com/watch?v=YqrA3mfrkMU)   |
 
-###### Personnes sourdes et malentendantes 
+# Personnes sourdes et malentendantes 
 
 | Nom prenom | Lien |
 | ----------- | ----------- |
