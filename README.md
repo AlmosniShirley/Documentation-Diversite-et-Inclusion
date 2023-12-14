@@ -82,7 +82,22 @@
 | [Shirley Almosni Chiche](https://fr.linkedin.com/in/shirley-almosni-chiche)  | Chaîne YouTube : Partie 2 [Comment aborder les moments délicats de votre expérience](https://www.youtube.com/watch?v=NjCh25vKn0M&t=1153s) |
 | [Jean-Michel Fayard](https://www.linkedin.com/in/jmfayard/) | Article : [We Shall Improve Hiring Somewhat](https://dev.to/jmfayard/we-shall-improve-hiring-somewhat-1ip2)|   
 
+# Espaces Talks Inclusifs 
 
+| Nom | Lien |
+| ----------- | ----------- |
+| Paatern | [Twitch sur les sujets social tech](https://www.paattern.tech/) |   
+| [Sylvain Coudert](https://www.linkedin.com/in/sylvain-coudert-punkindev/) | Podcast : [Punkindev](https://punkindev.fr/podcast.html) avec pas mal d'intervenants différents sur des sujets social tech |  
+
+
+# Entreprises et associations sensibles aux sujets d'inclusivité et de diversité
+
+| Nom  | Lien |
+| ----------- | ----------- |
+| [50inTech](https://fr.50intech.com/) | 50inTech crée l'adéquation parfaite entre des personnes talentueuses qui s'identifient comme des femmes et des lieux de travail sûrs. |   
+| [Duchess France](https://www.duchess-france.fr/) | Créée en 2010, Duchess France est une association destinée à valoriser et promouvoir les développeuses et les femmes avec des profils technique, leur donner plus de visibilité, mais aussi à faire connaître ces métiers technique et créer de nouvelles vocations. |
+| [Shodo](https://shodo.io/) | Article : [Nos luttes pour l'égalité des genres](https://shodo.io/notre-lutte-pour-legalite-de-genre/) ESN particulièrement engagée sur des problématiques sociales d'inclusion et de diversité |   
+| [Compositech](https://compositech.org/)|nouvelle association engagée en non-mixité choisie |  
 
 
 
