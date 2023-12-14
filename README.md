@@ -43,6 +43,47 @@ Pour tous ceux qui pensent différemment.](https://www.youtube.com/watch?v=A3zZs
 | Emmanuelle Aboaf  | Conférence : [API Speech-To-Text : quelles sont ses avantages et ses limites ?](https://www.youtube.com/watch?v=gEwFhuqoz_A) |
 | Morgane Dalbergue | Article : [Morgane, recruteuse malentendante : « Au bureau, c’est la loi du plus fort »](https://www.welcometothejungle.com/fr/articles/morgane-recruteuse-malentendante-emploi-personnes-handicapees) |
 
+# Mobilité résuite 
+
+# Femmes dans la tech 
+
+| Nom prenom | Lien |
+| ----------- | ----------- |
+| Audrey Neveu  | Conférence :[BDX I/O 2018 : Keynote d'ouverture : The Hitchhiker's Guide to Diversity (Don't panic!)](https://www.youtube.com/watch?v=znX4pFJdiYg) |
+| Marcy Ericka Charollois | Conférence : [Pourquoi vous n'attirerez et ne retiendrez pas les femmes dans vos équipes tech !](https://www.youtube.com/watch?v=6g0quTQqpr8) |
+| Amélie Abdallah  | Conférence : [Féminisation dans la tech : la communication, ou l'échec de tout un secteur](https://www.youtube.com/watch?v=898Vsm1frEg) |
+| Morgan Kassas Evin et Stéphanie Rodriguez | Conférence : [Faux départ ! Les femmes quittent la course !](https://www.youtube.com/watch?v=spRIH5O9Kzw) |
+| Plateforme de l'inclusion  | Article : [La place des femmes dans le monde de l'Insertion par l'Activité Économique.](https://drive.google.com/file/d/1HYab1C0GI3npi1D3jlNgewpCStlPw0a6/view?mtm_kwd=Note+Femmes) |
+| Stéphanie Prévost Mercier | Conférence : [Pourquoi quitter la Tech](https://www.youtube.com/watch?v=FUeABDqWrh0)  |
+
+# Racisme et discrimination
+
+| Nom prenom | Lien |
+| ----------- | ----------- |
+| Shirley Almosni Chiche  | Chaîne YouTube : [Pour éviter le Dirty Recruiting, on ne laisse pas ses valeurs dans un coin](https://www.youtube.com/watch?v=FW91DhOh5_g&t=789s)  |
+| Marcy Ericka Charollois | Conférence : [DevFest Lille : D'observateur à responsable : enrayer les biais racistes dans l'UX](https://www.youtube.com/watch?v=oeNdjgEjwmM) |
+| Nicolas Galita | Article : [Je suis blanc, je peux parler de racisme ?](https://medium.com/d%C3%A9penser-repenser/je-suis-blanc-je-peux-parler-de-racisme-4e1060adc247) |
+| Nicolas Galita | Article : [Le racisme expliqué à mes amis](https://medium.com/d%C3%A9penser-repenser/le-racisme-expliqu%C3%A9-%C3%A0-mes-amis-f95c5735233e) |
+
+# Reconversion dans la tech 
+
+| Nom prenom | Lien |
+| ----------- | ----------- |
+| Shirley Almosni Chiche  | Chaîne YouTube : [Comment sortir son épingle du jeu en reconversion informatique ?](https://www.youtube.com/watch?v=-7qK-CC_D4M)  |
+| Amélie Abdallah | Conférence : [AFUP PHP : comment être bien onboardée en tant que développeuse junior](https://www.youtube.com/watch?v=xNBmpt6d7o8)|   
+
+# LGBTIQA+
+
+# Santé Mentale 
+
+| Nom prenom | Lien |
+| ----------- | ----------- |
+| Shirley Almosni Chiche  | Chaîne YouTube : Partie 1 [Comment aborder les moments délicats de votre expérience](https://www.youtube.com/watch?v=oSCd0JYM1vU&t=1421s) |
+| Shirley Almosni Chiche  | Chaîne YouTube : Partie 2 [Comment aborder les moments délicats de votre expérience](https://www.youtube.com/watch?v=NjCh25vKn0M&t=1153s) |
+| Jean-Michel Fayard | Article : [We Shall Improve Hiring Somewhat](https://dev.to/jmfayard/we-shall-improve-hiring-somewhat-1ip2)|   
+
+
+
 
 
 
