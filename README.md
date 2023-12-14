@@ -96,7 +96,8 @@
 | ----------- | ----------- |
 | [50inTech](https://fr.50intech.com/) | 50inTech crée l'adéquation parfaite entre des personnes talentueuses qui s'identifient comme des femmes et des lieux de travail sûrs. |   
 | [Duchess France](https://www.duchess-france.fr/) | Créée en 2010, Duchess France est une association destinée à valoriser et promouvoir les développeuses et les femmes avec des profils technique, leur donner plus de visibilité, mais aussi à faire connaître ces métiers technique et créer de nouvelles vocations. |
-| [Shodo](https://shodo.io/) | Article : [Nos luttes pour l'égalité des genres](https://shodo.io/notre-lutte-pour-legalite-de-genre/) ESN particulièrement engagée sur des problématiques sociales d'inclusion et de diversité |   
+| [Shodo](https://shodo.io/) | Article : [Nos luttes pour l'égalité des genres](https://shodo.io/notre-lutte-pour-legalite-de-genre/) ESN particulièrement engagée sur des problématiques sociales d'inclusion et de diversité | 
+| [The Allyance](https://theallyance.one/recruitment)| Cabinet de recrutement particulièrement impliqué dans les problématiques d'inslusion et de diversité dans le recrutement informatique |   
 | [Compositech](https://compositech.org/)|nouvelle association engagée en non-mixité choisie |  
 
 
