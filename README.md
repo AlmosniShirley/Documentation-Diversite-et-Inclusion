@@ -54,7 +54,7 @@
 | [Amélie Abdallah](https://fr.linkedin.com/in/alonahamelie/en)  | Conférence : [Féminisation dans la tech : la communication, ou l'échec de tout un secteur](https://www.youtube.com/watch?v=898Vsm1frEg) |
 | [Morgan Kassas Evin](https://fr.linkedin.com/in/morgane-kassas-e) et Stéphanie Rodriguez | Conférence : [Faux départ ! Les femmes quittent la course !](https://www.youtube.com/watch?v=spRIH5O9Kzw) |
 | Plateforme de l'inclusion  | Article : [La place des femmes dans le monde de l'Insertion par l'Activité Économique.](https://drive.google.com/file/d/1HYab1C0GI3npi1D3jlNgewpCStlPw0a6/view?mtm_kwd=Note+Femmes) |
-| [Sophie Prévost Mercier](https://eig.etalab.gouv.fr/personnes/sonia-prevost-m) | Conférence : [Pourquoi quitter la Tech](https://www.youtube.com/watch?v=FUeABDqWrh0)  |
+| [Sonia Prévost Mercier](https://eig.etalab.gouv.fr/personnes/sonia-prevost-m) | Conférence : [Pourquoi quitter la Tech](https://www.youtube.com/watch?v=FUeABDqWrh0)  |
 
 # Racisme et discrimination
 
